@@ -1,3 +1,3 @@
 # Hello World
 
-Arquivo de exemplo p/ estudo  
+Arquivo de exemplo p/ estudos xD
