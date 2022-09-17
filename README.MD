@@ -7,5 +7,4 @@ Arquivo de exemplo p/ estudos xD
 TO ADD
 
 # Teste
-agora vai ein
-agora que vai
+o novo teste sera feito nesta parte
